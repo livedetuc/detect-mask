@@ -1,0 +1,7 @@
+classes= 1
+train  = /data2/darknet/data/train.txt
+valid  = /data2/darknet/data/train.txt
+#valid = data/coco_val_5k.list
+names = settings/data_names/coronamask.names
+backup = /data2/darknet/backup/
+eval=coco
